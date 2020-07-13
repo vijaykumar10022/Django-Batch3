@@ -4,6 +4,6 @@ ____
 - 1.Installation
 - 2.Function in pYthon 
 - 3.OOP'S in Python
-  -- Class
-  -- Object
-  -- Cons tructors
+  - Class
+  - Object
+  - Cons tructors
