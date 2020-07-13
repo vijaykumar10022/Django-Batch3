@@ -1,3 +1,9 @@
-# Django-Batch3
-
-click[here](https://drive.google.com/drive/folders/1MqHVFnvKFaT1jc3E_lUaB5fsMdpqSHqx?usp=sharing)
+____
+### Day1(13-07-20)
+- Day1 Content:
+- 1.Installation
+- 2.Function in pYthon 
+- 3.OOP'S in Python
+  -- Class
+  -- Object
+  -- Cons tructors
