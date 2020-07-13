@@ -1,0 +1,93 @@
+Today Objectives
+-----------------
+1.Python Installation
+
+ -->Required python software version is 3.6.8
+
+2.Functions in Python
+-->Function:function is group of related statements that performs a specific task
+	-->Code reusabulity
+	-->reduce the length of the code
+diff types of function:
+
+1.BuildIn Functions
+	1.Print("")
+2.User Defined Functions
+	-->User Can Define ourself
+	def keyword is userd for defineing a user define functon
+syntax
+------
+def funname():
+    .
+    .
+    .
+    .
+    .
+    .
+funname()
+
+3.OOP'S in Python
+-----------------
+-->1.class
+-->2.object
+-->3.contructors
+-->4.Inheritance
+
+1.Class:
+--------
+-->It is a collection of variables and methods
+method:if function is existed inside the class then will call is a method
+
+syntax:
+-------
+class class_name:
+	-->List of variables
+	-->List of Methods
+
+2.Object:
+---------
+-->object is a instance of class
+
+syntax:
+-------
+obj_name=class_name
+
+3.Constructors
+---------------
+The main advantage of constructor is without using the object we can function
+
+syntax:
+-------
+class ClassName:
+
+	def __init__(self):#constructor
+	def __init__(self,a,b)
+	def __init__(a,self,b)
+
+
+
+	
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
