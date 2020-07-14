@@ -1,0 +1,31 @@
+Today Objecties
+----------------
+1.Inheritance
+-->we are trying to inheriting something from parent class to child class
+format is: class childclass(parentclass)
+
+-->Single level Inheritance
+	-->there is a only one parent class and one child class
+
+-->Multilevel inheritance
+	-->one or more parents and one or more childs
+
+-->Multible inheritance
+	-->more then one parent and one child
+
+2.Modules:
+-----------
+-->module is a .py file
+
+-->it is a collection of functions or classes
+
+-->Using import Keyword
+
+3.Packages:
+----------
+
+-->Package is a Folder
+
+	-->It is a collection of modules
+
+
