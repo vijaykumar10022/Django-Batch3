@@ -28,10 +28,9 @@ ____
 ### Day3(15-07-20)
 #### Day-2 content:
 _____
-
 - 1. introdution about django
 - 2. MVC, MVT,Architecture of Django
 - 3.Django Installation 
-  - pip install django
+    - pip install django
 - 4.Project Creation, APP creation and use of
 admin app
