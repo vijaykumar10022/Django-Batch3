@@ -34,6 +34,7 @@ _____
    - pip install django
 - 4.Project Creation, APP creation and use of
 admin app
+  note :select project location in localmachine
   - Project creation Command is 
     - django-admin startproject projectname
     - ex:django-admin startproject demo
