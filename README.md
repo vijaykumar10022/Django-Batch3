@@ -24,3 +24,14 @@ _____
 ##### Recorded Video for Day2 [ClickHere](https://transcripts.gotomeeting.com/#/s/7106177faf580de14988724889fbf4b836e38474961230835f3e0832fd603061)
 #### Note:Videos are Expired after one week
 
+____
+### Day3(15-07-20)
+#### Day-2 content:
+_____
+
+- 1. introdution about django
+- 2. MVC, MVT,Architecture of Django
+- 3.Django Installation 
+  - pip install django
+- 4.Project Creation, APP creation and use of
+admin app
