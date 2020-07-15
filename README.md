@@ -26,7 +26,7 @@ _____
 
 ____
 ### Day3(15-07-20)
-#### Day-2 content:
+#### Day-3 content:
 _____
 - 1.introdution about django
 - 2.MVC, MVT,Architecture of Django
