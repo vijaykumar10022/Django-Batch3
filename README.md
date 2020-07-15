@@ -44,3 +44,7 @@ admin app
   - App creation
       - python manage.py startapp appname
       - ex:python manage.py startapp myapp
+  - Server Running
+      - python manage.py runserver
+        -->http://127.0.0.1:8000/urlname or localhost:8000/urlname
+        -->ex:http://127.0.0.1:8000/hello or localhost:8000/hello
