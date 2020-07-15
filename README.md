@@ -19,5 +19,5 @@ _____
 - 2.Python modues with examples
 - 3.Python Packages with examples
 - Sublime editor linke [click here](https://www.sublimetext.com/3)
-
+##### Recorded Video for Day2 [ClickHere](https://transcripts.gotomeeting.com/#/s/7106177faf580de14988724889fbf4b836e38474961230835f3e0832fd603061)
 
