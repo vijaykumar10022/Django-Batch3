@@ -37,9 +37,9 @@ admin app
   - Project creation Command is 
     - django-admin startproject projectname
     - ex:django-admin startproject demo
- - after creation of project move one step forward 
-  - cd projectname
-  - ex: cd demo
- - App creation
-  - python manage.py startapp appname
-  - ex:python manage.py startapp myapp
+  - after creation of project move one step forward 
+      - cd projectname
+      - ex: cd demo
+  - App creation
+      - python manage.py startapp appname
+      - ex:python manage.py startapp myapp
