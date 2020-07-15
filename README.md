@@ -1,3 +1,4 @@
+#### Note:Videos are Expired after one week
 _____
 ### Day1(13-07-20)
 #### Day1 Content:
@@ -10,6 +11,7 @@ _____
   - Constructors
 
 ##### Recorded Video for Day1 [ClickHere](https://transcripts.gotomeeting.com/#/s/f32dd958cf9e3d0cbb86eca02a39fbbc200b594d267a1ef8fd7aab6631950507)
+#### Note:Videos are Expired after one week
 ____
 ### Day2(14-07-20)
 #### Day-2 content:
@@ -20,4 +22,5 @@ _____
 - 3.Python Packages with examples
 - Sublime editor linke [click here](https://www.sublimetext.com/3)
 ##### Recorded Video for Day2 [ClickHere](https://transcripts.gotomeeting.com/#/s/7106177faf580de14988724889fbf4b836e38474961230835f3e0832fd603061)
+#### Note:Videos are Expired after one week
 
