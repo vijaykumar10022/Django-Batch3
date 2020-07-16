@@ -48,3 +48,5 @@ admin app
       - python manage.py runserver
         -->http://127.0.0.1:8000/urlname or localhost:8000/urlname
         -->ex:http://127.0.0.1:8000/hello or localhost:8000/hello
+ ##### Recorded Video for Day3 [ClickHere](https://transcripts.gotomeeting.com/#/s/247df487b0bb2b7eedf25588fe715a1478588bbddeba33c586fdea5b460d4ae2)
+#### Note:Videos are Expired after one week
