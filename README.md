@@ -63,3 +63,11 @@ _____
   ##### Recorded Video for Day4 [ClickHere](https://transcripts.gotomeeting.com/#/s/afa69a01dccf889c8c557a212610d52726fc1869d44c92c2d44d587a6178b0fc)
   #### Note:Videos are Expired after one week
   _______
+  
+  ____
+### Day5(17-07-20)
+#### Day-5 content:
+_____
+- 1.Django Templates
+- 2.Providing an interface between controller and
+templates
