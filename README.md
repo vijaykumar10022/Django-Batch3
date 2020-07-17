@@ -69,5 +69,7 @@ _____
 #### Day-5 content:
 _____
 - 1.Django Templates
-- 2.Providing an interface between controller and
-templates
+- 2.Providing an interface between controller and templates
+  
+  ##### Recorded Video for Day5 [ClickHere](https://transcripts.gotomeeting.com/#/s/609e10814bf6b2146a6f58a08ef58f552d509403fe88faa0b033d32d5ecbab4e)
+  #### Note:Videos are Expired after one week
