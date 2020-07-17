@@ -59,3 +59,7 @@ _____
 - 3.Dynamic URL Mapping,views
 - 4.Interface between controller(urls.py &views.py) files
 - 5.Http Request and Responses
+
+  ##### Recorded Video for Day4 [ClickHere](https://transcripts.gotomeeting.com/#/s/afa69a01dccf889c8c557a212610d52726fc1869d44c92c2d44d587a6178b0fc)
+  #### Note:Videos are Expired after one week
+  _______
