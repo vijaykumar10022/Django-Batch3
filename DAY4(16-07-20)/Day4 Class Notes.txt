@@ -1,0 +1,35 @@
+Today Objectives
+----------------
+1.Url Mapping
+
+1.Fontend: html,css,bootstrap,javascript
+
+2.Backend: python,java,php,
+
+3.middleware: database: sqlite3,mysql,oracle,mangodb,postgrsql
+
+
+2.HttpRequest and Response:
+------------------------------
+
+HttpRequest:
+------------
+-->for handling this request we have two diff methods
+
+GET and POST:
+-------------
+
+GET: If user sends request from url that means the request type is GET
+
+POST: If the request is comeing from html forms then the request type is POST
+
+
+Response:
+-------------
+-->based on the users request it will give response
+
+Dynamic Url Mapping
+------------------
+
+
+

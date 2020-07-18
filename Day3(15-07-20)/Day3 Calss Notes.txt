@@ -1,0 +1,89 @@
+Today Objectives
+----------------
+1.Django Installation
+
+--> Django is a framework using for developing a web applicaaations
+
+
+2.MVC & MVT :
+------------
+
+MVC:(Model View Controller)
+---------------------------
+Model --> In this model we can write entire database logic
+
+View --> All .html files
+
+Controller --> I can build main logic for controlling both  model and view
+
+
+MVT (Model View Template):
+--------------------------
+Model:  here i am storing db connections
+
+View: will work like a conrtoller file(main logic file)
+
+Template: in template we will store all html file
+
+Dajngo Installation
+---------------------
+-->we need to install python 
+-->we have to run command in cmmand promt
+i.e: pip install django
+
+3.Project Creation
+-------------------
+for project creation run the below command 
+
+i.e: 'django-admin startproject projectname'
+
+-->when i run above cmd it will generate two files
+
+first one:
+-------------- 
+this folder ralated to admin part
+
+__init__.py : this file tells to python file
+
+asgi.py and wsgi.py: these files are used for hosting the project
+
+settings.py : in this file we will make all project settings
+
+urls.py:here we will map sll our urls
+
+
+
+second one: manage.py
+---------------------
+--> this file will acts as a intrerface between the django project and 
+cmd
+--> by using this manage.py i can run server
+--> i can able to open shells
+--> for creating a user applications we can use manage.py file
+
+
+App Creation
+-----------------
+-->for creating a app we have to run one command
+
+i.e: 'python manage.py startapp appname'
+
+-->after run the above cmd it will generate few files
+
+-Migrations:it will handle all db connections
+-__init__.py : this file tell to python file
+-Admin.py: by  using this file we will give permissions to admin
+for accessing our models(db tables)
+-App.py: here we will see app info
+-MOdel.py: we will write all db connections
+-tests.py: we will use this file for testing only
+-views.py: it is working a controller for controlling all navigation
+
+-->for run the django application we will use below cmd
+i.e: 'python manage.py runserver'
+
+
+
+
+
+
