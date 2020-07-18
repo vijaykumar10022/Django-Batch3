@@ -75,3 +75,16 @@ _____
 templates
 ##### Recorded Video for Day4 [ClickHere](https://transcripts.gotomeeting.com/#/s/609e10814bf6b2146a6f58a08ef58f552d509403fe88faa0b033d32d5ecbab4e)
   #### Note:Videos are Expired after one week
+
+  ____
+### Day6(18-07-20)
+#### Day-6 content:
+_____
+
+- 1.Static file handling
+  - internal
+  - external
+    - css
+    - images
+    - javascript
+
