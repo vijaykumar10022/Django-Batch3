@@ -1,5 +1,8 @@
 [Click Here for syllabus](https://drive.google.com/file/d/1OnBUWHxKIa0ixTU8uKrWTGCE7HB3PbGl/view)
 
+
+
+
 #### Note:Videos are Expired after one week
 _____
 ### Day1(13-07-20)
