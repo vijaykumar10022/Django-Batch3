@@ -1,3 +1,5 @@
+[Click Here for syllabus](https://drive.google.com/file/d/1OnBUWHxKIa0ixTU8uKrWTGCE7HB3PbGl/view)
+
 #### Note:Videos are Expired after one week
 _____
 ### Day1(13-07-20)
@@ -71,3 +73,5 @@ _____
 - 1.Django Templates
 - 2.Providing an interface between controller and
 templates
+##### Recorded Video for Day4 [ClickHere](https://transcripts.gotomeeting.com/#/s/609e10814bf6b2146a6f58a08ef58f552d509403fe88faa0b033d32d5ecbab4e)
+  #### Note:Videos are Expired after one week
