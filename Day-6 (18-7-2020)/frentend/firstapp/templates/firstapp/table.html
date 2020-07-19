@@ -1,0 +1,24 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Table Page</title>
+</head>
+<body>
+ 	<marquee>Example for Table</marquee>
+ 	<marquee direction = 'down' height="150" bgcolor='bluer'>Top to down</marquee>
+	<table border="2" bordercolor='yellow' bgcolor="red">
+		<tr>
+			<th>First Name</th>
+			<th>Last Name</th>
+			<th>Age</th>
+		</tr>
+		<tr rowspan= '2'>
+			<td >Jill</td>
+			<td>Smith</td>
+			<td>50</td>
+		</tr>
+		<img src="{% static 'images/car.jpg'%}" alt="car-img">
+	</table> 
+</body>
+</html>
