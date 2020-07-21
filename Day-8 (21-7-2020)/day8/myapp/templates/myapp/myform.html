@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Form Page</title>
+	
+	<!-- Bootstrap Link -->
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+</head>
+<body>
+	<h1>Form Page</h1>
+
+	<form action="#" method="post">
+		{% csrf_token %}
+		<div class="form-group">
+			<label for="email">Email</label>
+			<input type="email" class="form-control" id="email" value="satyanarayana.mn@apssdc.in"  name="email" required>
+
+			<label for="pwd">Password</label>
+			<input type="password" class="form-control" placeholder="Enter Your Password Here" name="pswd" id="pwd" required>
+		</div>
+		<input type="submit" value="Register" class="btn btn-primary">
+	</form>
+
+</body>
+</html>
