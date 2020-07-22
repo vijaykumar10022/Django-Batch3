@@ -1,0 +1,35 @@
+Good afternoon to all:
+----------------------
+Day Objectives:
+-> Djnago admin
+-> sqlite3
+->Models in django
+
+django admin:
+
+->admin can able to create a new user,update existing 
+   user and delete existing user
+
+->for admin we have to create a tables
+    "python manage.py migrate"
+
+-> to access admin part we have to create superuser
+   account
+
+     "python manage.py createsuperuser"
+
+
+sqlite3:
+--------->
+
+Models:
+->in models.py we will create one or more classes
+->here each and every class represents a db table
+->in this class each field maps a db column
+->to convert class into db table we have two commands
+    1) python manage.py makemigrations
+          ->this command will generate interface file for class to 
+             db table
+    2) python manage.py migrate
+         ->this command will create db tables by using generated 
+            interface file
