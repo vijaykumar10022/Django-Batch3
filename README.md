@@ -115,4 +115,12 @@ _____
   ##### Recorded Video for Day8 [ClickHere](https://transcripts.gotomeeting.com/#/s/dbf995d05f90416bf6e45b989f050681a720fb01d8b007f4032a576395256616)
   #### Note:Videos are Expired after one week
 
+  ____
+### Day9(22-07-20)
+#### Day-9 content:
+_____
+ - Django admin part
+ - Django DataBases -Sqlite3
+ - Models in Django
+
 
