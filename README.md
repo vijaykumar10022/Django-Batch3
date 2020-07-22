@@ -76,7 +76,7 @@ _____
 - 1.Django Templates
 - 2.Providing an interface between controller and
 templates
-##### Recorded Video for Day4 [ClickHere](https://transcripts.gotomeeting.com/#/s/609e10814bf6b2146a6f58a08ef58f552d509403fe88faa0b033d32d5ecbab4e)
+##### Recorded Video for Day5 [ClickHere](https://transcripts.gotomeeting.com/#/s/609e10814bf6b2146a6f58a08ef58f552d509403fe88faa0b033d32d5ecbab4e)
   #### Note:Videos are Expired after one week
 
   ____
@@ -90,4 +90,29 @@ _____
     - css
     - images
     - javascript
+##### Recorded Video for Day6 [ClickHere](https://transcripts.gotomeeting.com/#/s/15729ce3d7d69e2d6a1c45f35268a903ef093b8a84eb0dc7aebb0a533dc640bf)
+  #### Note:Videos are Expired after one week
+
+  ____
+### Day7(20-07-20)
+#### Day-7 content:
+_____
+
+  - CSS
+  - Javascript
+  ##### Recorded Video for Day7 Part-1 [ClickHere](https://transcripts.gotomeeting.com/#/s/7e1b508bf39ce631eeafc54c2234050223d6f72ee372b2f06587808abea38dcb)
+  ##### Recorded Video for Day7 Part-2 [ClickHere](https://transcripts.gotomeeting.com/#/s/b8093c8c8bef34f826c09f4742053f501e7f1598656dc7cd768d56a9ba0f4c67)
+  #### Note:Videos are Expired after one week
+
+  ____
+### Day8(21-07-20)
+#### Day-8 content:
+_____
+
+  - Bootstrap in Online
+  - Bootstrap in Offline
+  - Create forms using Bootstrap
+  ##### Recorded Video for Day8 [ClickHere](https://transcripts.gotomeeting.com/#/s/dbf995d05f90416bf6e45b989f050681a720fb01d8b007f4032a576395256616)
+  #### Note:Videos are Expired after one week
+
 
