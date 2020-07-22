@@ -121,7 +121,7 @@ _____
 _____
  - Django admin part
  - Django DataBases -Sqlite3
-  - [Click Here to Download Sqlite3 browser](https://sqlitebrowser.org/dl/)
+      - [Click Here to Download Sqlite3 browser](https://sqlitebrowser.org/dl/)
  - Models in Django
 
 
