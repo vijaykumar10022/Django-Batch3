@@ -123,5 +123,7 @@ _____
  - Django DataBases -Sqlite3
       - [Click Here to Download Sqlite3 browser](https://sqlitebrowser.org/dl/)
  - Models in Django
+ ##### Recorded Video for Day9 [ClickHere](https://transcripts.gotomeeting.com/#/s/f0f0a5831c311ca54adc8038e52cb7a683749f0490a1b2880991735cacbd48bb)
+  #### Note:Videos are Expired after one week
 
 
