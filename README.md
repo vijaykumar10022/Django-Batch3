@@ -128,3 +128,12 @@ _____
 
 #### Access Code: 355-143-229
 #### [New Goto Meeting Link Click Here](https://global.gotomeeting.com/install/355143229)
+
+____
+### Day10(23-07-20)
+#### Day-10 content:
+_____
+
+- 1.ORM(object Relational Mapping)
+- 2.Model Quiries
+- 3.CRUD Operations 
