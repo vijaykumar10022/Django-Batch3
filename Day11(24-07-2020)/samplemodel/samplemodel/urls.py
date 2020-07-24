@@ -20,5 +20,7 @@ from app1 import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('store/',views.store,name="store"),
-    path('store2/',views.store2,name="store2"),
+    path('display/',views.display),
+    path('delete/<str:name>',views.delete,name="delete"),
+    path('update/<int:age>',views.update,name="update"),
 ]

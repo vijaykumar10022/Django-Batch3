@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>::Display::</title>
+</head>
+<body>
+	<center>
+		<a href="{% url 'store' %}">Add Your Data</a>
+	<h1>Data from Data Database</h1>
+	<table border="2px">
+		<tr>
+			<thead>
+				<th>S.No</th>
+				<th>Name</th>
+				<th>age</th>
+				<th>Salary</th>
+				<th>Desig</th>
+				<th>Phno</th>
+				<th>Delete</th>
+				<th>Update/Edit</th>
+			</thead>
+		</tr>
+	{% for i in info %}
+	<tr>
+		<td>{{forloop.counter}}</td>
+		<td>{{i.name}}</td>
+		<td>{{i.age}}</td>
+		<td>{{i.salary}}</td>
+		<td>{{i.desig}}</td>
+		<td>{{i.phno}}</td>
+		<td><a href="{% url 'delete' i.name %}">Delete</a></td>
+		<td><a href="{% url 'update' i.age %}">Update/Edit</a></td>
+	</tr>
+		
+	{% endfor%}
+	</table>
+	</center>
+</body>
+</html>
