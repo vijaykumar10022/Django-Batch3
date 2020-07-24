@@ -136,4 +136,16 @@ _____
 
 - 1.ORM(object Relational Mapping)
 - 2.Model Quiries
+  - Insert&Display
 - 3.CRUD Operations 
+ ##### Recorded Video for Day10 [ClickHere](https://transcripts.gotomeeting.com/#/s/7b532ac0c43d66fe688ba1499c98660a199456d3b417653caeec90d69f1c65ad)
+  #### Note:Videos are Expired after one week
+ 
+ ____
+### Day11(24-07-20)
+#### Day-11 content:
+_____
+- Model Qriries
+  - Update &Delete
+  ##### Recorded Video for Day10 [ClickHere](https://transcripts.gotomeeting.com/#/s/3e92be52352025651def019383410da5421cb4ca379a38369fe00fde25ec3c64)
+  #### Note:Videos are Expired after one week
