@@ -147,5 +147,5 @@ _____
 _____
 - Model Qriries
   - Update &Delete
-  ##### Recorded Video for Day10 [ClickHere](https://transcripts.gotomeeting.com/#/s/3e92be52352025651def019383410da5421cb4ca379a38369fe00fde25ec3c64)
+  ##### Recorded Video for Day11 [ClickHere](https://transcripts.gotomeeting.com/#/s/3e92be52352025651def019383410da5421cb4ca379a38369fe00fde25ec3c64)
   #### Note:Videos are Expired after one week
