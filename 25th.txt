@@ -1,0 +1,40 @@
+day objectives:
+--------------
+-> crud operations using (forms)
+-> messages generation
+
+
+form validations:
+1)clientside
+2) server side
+    form.is_valid()
+    for.save()
+
+
+
+
+
+
+
+
+
+
+
+messages generation:
+  -> it is a model for generating alerts
+  -> "django.contrib import messages"
+
+
+types:
+->messages.info
+->messages.success
+->messages.warning
+->messages.error
+->messages.debug
+ 
+html:
+{% if messages %}
+  {% for msg in message %}
+	<h2>{{msg}}</h2>
+  {% endfor %}
+{% endif%}
