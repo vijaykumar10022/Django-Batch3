@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Details Page</title>
+</head>
+<body>
+<table border="1">
+	{% for row in data %}
+		<tr>
+			<td>{{row.id}}</td>
+			<td>{{row.stuid}}</td>
+			<td><a href="{% url 'edit' row.id %}">{{row.stuName}}</td>
+			<td>{{row.branch}}</td>
+			<td>{{row.age}}</td>
+			<td>Delete</td>
+		</tr>
+	{% endfor%}
+</table>
+</body>
+</html>

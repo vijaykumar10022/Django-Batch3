@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Message Form</title>
+</head>
+<body>
+	<form action="{% url 'delete' info.id %}" method="POST">
+		{% csrf_token %}
+	<h2>Are you sure to delete{{info.stuName}}</h2>
+	<input type="submit" name="submit" value="delete">
+	<!--<input type="submit" name="submit" value="cancel">-->
+	<a href="{% url 'details'%}">cancel</a>
+    </form>
+</body>
+</html>
