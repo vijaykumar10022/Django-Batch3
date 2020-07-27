@@ -149,3 +149,16 @@ _____
   - Update &Delete
   ##### Recorded Video for Day11 [ClickHere](https://transcripts.gotomeeting.com/#/s/3e92be52352025651def019383410da5421cb4ca379a38369fe00fde25ec3c64)
   #### Note:Videos are Expired after one week
+  
+   ____
+### Day12(25-07-20)
+#### Day-12 content:
+_____
+
+  - Django Form 
+  - Django Form Validation
+  - CRUD Operations using forms(insert,display,delete,update)
+  
+   ##### Recorded Video for Day11 [ClickHere](https://transcripts.gotomeeting.com/#/s/c1afbdff0300e4cb5b6012d1251b2a103c91e2a1d5412eaa51aaf5d5d362f364)
+  #### Note:Videos are Expired after one week
+
