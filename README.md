@@ -162,3 +162,5 @@ _____
    ##### Recorded Video for Day11 [ClickHere](https://transcripts.gotomeeting.com/#/s/c1afbdff0300e4cb5b6012d1251b2a103c91e2a1d5412eaa51aaf5d5d362f364)
   #### Note:Videos are Expired after one week
 
+[for 64 bit Click to Download](https://www.apachefriends.org/xampp-files/7.4.8/xampp-windows-x64-7.4.8-0-VC15-installer.exe)
+[for 32 bit Click to Download](https://xampp.site/download/xampp-for-windows-32-bit/)
