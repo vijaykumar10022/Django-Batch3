@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>EamilSend</title>
+</head>
+<body>
+<center>
+	<h2>Eamil Sending Form</h2>
+	<form action="{% url 'email' %}" method="POST">
+		{% csrf_token %}
+		ToEmail:<br><input type="email" name="email"><br><br>
+		Subject:<br><input type="text" name="subject"><br><br>
+		Body:<br><input type="text" name="body"><br><br>
+		<br><input type="submit" name="submit">
+
+		
+	</form>
+
+</center>
+
+
+</body>
+</html>
