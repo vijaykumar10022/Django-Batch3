@@ -1,0 +1,54 @@
+
+
+last class quick revision:
+	from django.db import models
+	-->class classname(models.Model):
+		fiels(name(string),age(int),salary(float)-->25000.00)
+	
+	-->makemigrations -->it generate insterface file like a python file
+	-->migrate -->it is generate database tables
+
+
+today agenda is:
+ORM(Object relational mapping)
+Model Quiries
+-->command -->python manage.py shell
+
+insert-->	import model
+	 	1)
+		data=model(leftside-databasefieldname=value,)
+		data.save()
+		ex:
+		  data=Emp(name="vijay",age=25,salary=28000.00,desig="python 			developer",phno=9876423114)
+		  data.save()
+		
+		2).model.objects.create(leftside-databasefieldname=value)
+		   EX:
+			Emp.objects.create(name="vijay",age=25,salary=28000.00,desig="python 			developer",phno=9876423114)
+
+Display --> get all the information 
+		-->object=model.objects.all()
+		   ex:mydata=Emp.objects.all()
+			for info in myinfo:
+				print(info.name,info.age,info.salary,info.desig,info.phno)
+	
+	   -->for getting to multiple information
+		-->object=model.objects.filter(fieldname=value)
+		ex:
+		mydata=Emp.objects.filter(name="Hariprasad")
+		for info in mydata:
+	     		print(info.name,info.age,info.salary,info.desig,info.phno)
+		
+	-->for getting individual information
+		-->object=model.objects.get(fielvalue="Value")
+		ex:
+			mydata=Emp.objects.get(name="vijay")
+			mydata=Emp.objects.get(age=25)
+ 	-->for getting first information
+		object=model.objets.first()
+		ex:data=Emp.objects.first()
+     -->for getting last information in database
+		object=model.objects.last()
+		ex:data=Emp.objects.last()
+
+CRUD Operation -->insert,delete,update,display,search

@@ -1,0 +1,46 @@
+Today agenda :
+-----------
+
+	->model Quiries
+		-->CRUD (insert,diplay,delete,update)
+			-->dealing with html files(insert)
+			-->display-with html files
+			
+	--> Delete
+			-->to delete all data in database
+				1). object=modelname.objects.all()
+					 object.delete()
+					 ex:data=Emp.objects.all()
+						data.delete()
+				2). model.objects.all().delete()
+					ex:Emp.objects.all().delete()
+		  -->to delete similar data in data base
+				1). object=model.objects.filter(fieldname=value)
+					object.delete()
+					ex:data=Emp.objects.filter(name="vijay")
+			-->to delete individual data in database
+				1). object=model.objects.get(fieldname=value)
+					object.delete()
+					ex:data=model.objects.get(id=11)
+						data.delete()
+			-->update or edit or modify
+				-->to update individual row data
+				-->object=model.objects.get(fieldname=value)
+				   object.name="your name"
+				   object.save()
+				  ex:data=Emp.objects.get(name="vijay")
+					data.name="vijay kumar"
+					data.save()
+					
+	-->for Accessing data in tempaltes
+		we are using DTL(Django Template language)
+			-->expression-->{{data}}
+			-->for loop
+				{% for loop%}
+				{% endfor%}
+			-->condition 
+				{% if condition %}
+				{% endif%}
+			
+	->messages
+	

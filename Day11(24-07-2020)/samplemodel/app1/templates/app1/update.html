@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>::update::</title>
+</head>
+<body>
+		<center>
+
+			<h1>Update Your data</h1>
+			<form action="{% url 'update' mydata.age %}" method="POST">
+				{% csrf_token %}
+				<input type="text" name="name"  value="{{mydata.name}}"><br>
+				<input type="text" name="age" value="{{mydata.age}}"><br>
+				<input type="text" name="salary" value="{{mydata.salary}}"><br>
+				<input type="text" name="desig" value="{{mydata.desig}}"><br>
+				<input type="text" name="phno"  placeholder="{{mydata.phno}}"><br>
+				<input type="submit" name="store" value="Store">
+			</form>
+		</center>
+</body>
+</html>

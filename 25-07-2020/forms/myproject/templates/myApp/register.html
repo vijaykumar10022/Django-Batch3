@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Register Form</title>
+</head>
+<body>
+	<form action="{% url 'register' %}" method="POST">
+		{% if messages %}
+			{% for msg in messages %}
+				<h2>{{msg}}</h2>
+			{% endfor %}
+
+		{% endif %}
+		{% csrf_token %}
+		{{form.as_p}}
+		<button>Register</button>
+	</form>
+</body>
+</html>

@@ -1,0 +1,14 @@
+body{
+	background-image: url("/static/images/background.jpg ");
+	
+	text-align: center;
+}
+
+h1{
+	color: green;
+}
+
+img{
+	height: 50%;
+	width: 50%;
+	}
