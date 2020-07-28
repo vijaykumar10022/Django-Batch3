@@ -37,4 +37,5 @@ def update(request,age):
 		data.phno=phno
 		data.save()
 		return redirect('/display')
+		
 	return render(request,'app1/update.html',{'mydata':data})
