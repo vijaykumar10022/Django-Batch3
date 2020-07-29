@@ -180,7 +180,7 @@ _____
  - -->Registration form by using django forms with dynamic generation of username&password as well as mail sending
  - -->login page validation
 		- -->home page
-    ##### Recorded Video for Day13 [ClickHere](https://transcripts.gotomeeting.com/#/s/81e75236023938d8888d853969d8fab6dfe4406a3b22ff9417bcc2d00e0e6990)
+    ##### Recorded Video for Day14 [ClickHere](https://transcripts.gotomeeting.com/#/s/81e75236023938d8888d853969d8fab6dfe4406a3b22ff9417bcc2d00e0e6990)
   #### Note:Videos are Expired after one week
  
     
