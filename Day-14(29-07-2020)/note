@@ -1,0 +1,13 @@
+
+yesterday  Agenda:
+	-->Userregistration model&Bookboom model
+	-->Templates 
+	-->Registration form by using django forms with dynamic generation of username&password as well as mail sending
+	-->login page validation
+		-->home page
+Today agenda:	
+	-->image uploading/file uploading
+	-->profile creation
+	-->User&user authentication
+	
+	

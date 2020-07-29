@@ -1,0 +1,21 @@
+{% extends 'myapp1/index.html' %}
+{% block content %}
+	<br><br><br>
+	<div class="row">
+		<div class="col-sm-4"></div>
+		<div class="col-sm-4">
+			<div class="card">
+				<div class="card-header text-center text-primary " >
+						Add Your Book 
+				</div>
+				<form action="{% url 'addbook' %}" method="POST" enctype="multipart/form-data">
+					{% csrf_token %}
+				<div class="card-body text-center">
+					{{form.as_p}}
+				</div>
+				<div class="card-footer text-center" ><button class="btn btn-primary">ADD</button></div>
+				</form>s
+			</div>
+		</div>
+	</div>
+{% endblock content %}
