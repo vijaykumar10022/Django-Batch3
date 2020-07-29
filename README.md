@@ -159,12 +159,41 @@ _____
   - Django Form Validation
   - CRUD Operations using forms(insert,display,delete,update)
   
-   ##### Recorded Video for Day11 [ClickHere](https://transcripts.gotomeeting.com/#/s/c1afbdff0300e4cb5b6012d1251b2a103c91e2a1d5412eaa51aaf5d5d362f364)
+   ##### Recorded Video for Day12 [ClickHere](https://transcripts.gotomeeting.com/#/s/c1afbdff0300e4cb5b6012d1251b2a103c91e2a1d5412eaa51aaf5d5d362f364)
   #### Note:Videos are Expired after one week
+     ____
+### Day13(27-07-20)
+#### Day-13 content:
+_____
+  - Email sending
+  - Registration with mail sending
   
-  
+  ##### Recorded Video for Day13 [ClickHere](https://transcripts.gotomeeting.com/#/s/207b8c2d5d513f11e92b8cf29e7e2644f69b7433617964e6ac6f3376eed2b563)
+  #### Note:Videos are Expired after one week
+     ____
+### Day14(28-07-20)
+#### Day-14 content:
+_____
+
+ - -->Userregistration model&Bookboom model
+ - -->Templates 
+ - -->Registration form by using django forms with dynamic generation of username&password as well as mail sending
+ - -->login page validation
+		- -->home page
+    ##### Recorded Video for Day13 [ClickHere](https://transcripts.gotomeeting.com/#/s/81e75236023938d8888d853969d8fab6dfe4406a3b22ff9417bcc2d00e0e6990)
+  #### Note:Videos are Expired after one week
+ 
+    
   #### Download&install  any one 
   - for system 64 bit os
    [for 64 bit Click to Download](https://www.apachefriends.org/xampp-files/7.4.8/xampp-windows-x64-7.4.8-0-VC15-installer.exe)
 - for system 32bit os
 [for 32 bit Click to Download](https://xampp.site/download/xampp-for-windows-32-bit/)
+
+github--->https://git-scm.com/downloads
+
+create github  account -->https://github.com/
+
+heroku -->https://devcenter.heroku.com/articles/getting-started-with-python#set-up
+
+Create heroku Account -->https://www.heroku.com/
