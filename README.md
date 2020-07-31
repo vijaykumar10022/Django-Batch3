@@ -183,7 +183,24 @@ _____
     ##### Recorded Video for Day14 [ClickHere](https://transcripts.gotomeeting.com/#/s/81e75236023938d8888d853969d8fab6dfe4406a3b22ff9417bcc2d00e0e6990)
   #### Note:Videos are Expired after one week
  
-    
+     ____
+### Day15(29-07-20)
+#### Day-15 content:
+_____
+- -->image uploading/file uploading
+- -->profile creation
+- -->User&user authentication
+##### Recorded Video for Day15 [ClickHere](https://transcripts.gotomeeting.com/#/s/c99a2bb4431bd790b60de2fe172ff2295087f32998d9bb39c867e14b9d0788bc)
+  #### Note:Videos are Expired after one week
+     ____
+### Day16(30-07-20)
+#### Day-16 content:
+_____
+- Otp generation using qrcode
+- Gmail Authentication for login
+##### Recorded Video for Day16 [ClickHere](https://transcripts.gotomeeting.com/#/s/62ff5cfbb5190bc37856daba7275b69aa07fdfa1ed0eadfc749599d871134c8e)
+  #### Note:Videos are Expired after one week
+
   #### Download&install  any one 
   - for system 64 bit os
    [for 64 bit Click to Download](https://www.apachefriends.org/xampp-files/7.4.8/xampp-windows-x64-7.4.8-0-VC15-installer.exe)
