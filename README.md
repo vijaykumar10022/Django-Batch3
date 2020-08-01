@@ -240,30 +240,30 @@ _____
 			-->we are using database also
 	#### commands
 	1).Creat Project
-2).Create Your app
-3).check Your Server working fine or not
-4).install heroku s/w --->https://devcenter.heroku.com/articles/getting-started-with-python#set-up
-5).pip install gunicorn
-6).create File -->Procfile -->enter --> web: gunicorn T_shirt_size.wsgi
-7).web: gunicorn firstdemo1.wsgi -->
-8).pip install requests==2.19.1
-10).pip install django-heroku
-11). import this one into settings.py
-    import django_heroku
-   add this statement end of  settings.py 
-     django_heroku.settings(locals())
-12).pip freeze > requirements.txt
-5).heroku login
-13).heroku create t_shirtapp
-      create unique app
-14).git init
-15).git status
-          git config --global user.email "Vijay10022.com"
-         git config ---global user.name "vijay"
-16).git add .
-17).git commit -m "status"
-18).heroku git:remote -a appname
-19).git push heroku master
+	2).Create Your app
+	3).check Your Server working fine or not
+	4).install heroku s/w --->https://devcenter.heroku.com/articles/getting-started-with-python#set-up
+	5).pip install gunicorn
+	6).create File -->Procfile -->enter --> web: gunicorn T_shirt_size.wsgi
+	7).web: gunicorn firstdemo1.wsgi -->
+	8).pip install requests==2.19.1
+	10).pip install django-heroku
+	11). import this one into settings.py
+	    import django_heroku
+	   add this statement end of  settings.py 
+	     django_heroku.settings(locals())
+	12).pip freeze > requirements.txt
+	5).heroku login
+	13).heroku create t_shirtapp
+	      create unique app
+	14).git init
+	15).git status
+		  git config --global user.email "Vijay10022.com"
+		 git config ---global user.name "vijay"
+	16).git add .
+	17).git commit -m "status"
+	18).heroku git:remote -a appname
+	19).git push heroku master
 
   #### Download&install  any one 
   - for system 64 bit os
