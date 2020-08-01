@@ -1,0 +1,24 @@
+{% extends 'myapp1/index.html'%}
+{% block content %}
+<h1>Welcome to home page {{user.username}}</h1>
+<h1>{{user.first_name}}</h1>
+<h2>{{user.last_name}}</h2>
+<h2>{{user.password}}</h2>
+{% if data %}
+<div class="row">
+	<div class="col-sm-4"></div>
+	<div class="col-sm-4">
+		<div class="card text-center" >
+			<div class="card-header">
+				{{data.username}}
+			</div>
+			<div class="card-body">
+				<h4>Username:{{data.name}}</h4>
+				<h4>Email:{{data.email}}</h4>
+				<h4>Phone no:{{data.phno}}</h4>
+			</div>
+		</div>
+	</div>
+</div>
+{% endif%}
+{% endblock content%}

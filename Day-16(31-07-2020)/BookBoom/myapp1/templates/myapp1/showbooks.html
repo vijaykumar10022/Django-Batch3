@@ -1,0 +1,23 @@
+{% extends 'myapp1/index.html' %}
+
+{% block content %}
+	<div class="container pt-3">
+		<div class=" col-md-12">
+			<div class="row d-flex justify-content-between">
+	{% for info in data %}	
+				
+			<div class="col-sm-3 mt-3" style="width: 100%;">
+				<a href="#"><img src="/static/images/{{info.bookimage}}" height="360" width="300"></a>
+				<p class="text-primary">BookName{{info.bookname}}</p>
+				<p class="text-primary">Author Name:{{info.bookauthor}}</p>
+				<p class="text-primary">Cost :{{info.bookcost}}</p>
+				<a href="#" class="btn btn-info">Update</a> <a href="#" class="btn btn-danger">Delete</a>
+		</div>
+		
+	
+	{% endfor %}
+	</div>
+	</div>
+</div>
+
+{% endblock content%}

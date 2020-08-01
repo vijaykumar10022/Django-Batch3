@@ -1,0 +1,21 @@
+yesterday agenda:
+		--> Otp generation with qrcode
+		--> login validation
+		-->Gmail authentication
+Today agenda:
+		-->xampp Environmental setup
+				Mysql connection
+					-->because of huge data storage
+					-->security is high 
+					-->better performance
+					-->high speed data carry(for comminicating to mysql from userinterface to server data carrying is speed)
+					
+		-->user authentication
+		
+		-->user autherization
+			or
+		-->chage password 
+		-->forgot password
+		
+
+

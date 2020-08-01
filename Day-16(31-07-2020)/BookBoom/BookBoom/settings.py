@@ -74,13 +74,24 @@ WSGI_APPLICATION = 'BookBoom.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+#     }
+# }
+
+# engine are oracle,mysql,pgsql ,mangodb
+DATABASES={
+    'default':{
+        'ENGINE':'django.db.backends.mysql',
+        'NAME':'bookboom',
+        'USER':'root',
+        'PASSWORD':'',
+        'HOST':'',
+        'PORT':'',
     }
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/3.0/ref/settings/#auth-password-validators
@@ -129,7 +140,9 @@ EMAIL_USE_TLS=True
 EMAIL_HOST='smtp.gmail.com'
 EMAIL_PORT=587
 
+LOGIN_REDIRECT_URL='home'
 
+LOGIN_URL='login'
 
 
 
@@ -150,4 +163,4 @@ EMAIL_PORT=587
 
 
 EMAIL_HOST_USER='vijay02022020@gmail.com'
-EMAIL_HOST_PASSWORD='***********'
+EMAIL_HOST_PASSWORD='*********'
