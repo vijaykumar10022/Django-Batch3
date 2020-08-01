@@ -221,7 +221,7 @@ Today agenda:
 		-->chage password 
 		-->forgot password
 
-##### Recorded Video for Day16 [ClickHere](https://transcripts.gotomeeting.com/#/s/71322703f32d4aabff80d35c2ae0eefc59040e78e8b1635663198f02e1312f95)
+##### Recorded Video for Day17 [ClickHere](https://transcripts.gotomeeting.com/#/s/71322703f32d4aabff80d35c2ae0eefc59040e78e8b1635663198f02e1312f95)
   #### Note:Videos are Expired after one week
   #### Download&install  any one 
   - for system 64 bit os
