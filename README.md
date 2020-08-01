@@ -201,6 +201,28 @@ _____
 ##### Recorded Video for Day16 [ClickHere](https://transcripts.gotomeeting.com/#/s/62ff5cfbb5190bc37856daba7275b69aa07fdfa1ed0eadfc749599d871134c8e)
   #### Note:Videos are Expired after one week
 
+
+     ____
+### Day17(31-07-20)
+#### Day-17content:
+_____
+Today agenda:
+		-->xampp Environmental setup
+				Mysql connection
+					-->because of huge data storage
+					-->security is high 
+					-->better performance
+					-->high speed data carry(for comminicating to mysql from userinterface to server data carrying is speed)
+					
+		-->user authentication
+		
+		-->user autherization
+			or
+		-->chage password 
+		-->forgot password
+
+##### Recorded Video for Day16 [ClickHere](https://transcripts.gotomeeting.com/#/s/71322703f32d4aabff80d35c2ae0eefc59040e78e8b1635663198f02e1312f95)
+  #### Note:Videos are Expired after one week
   #### Download&install  any one 
   - for system 64 bit os
    [for 64 bit Click to Download](https://www.apachefriends.org/xampp-files/7.4.8/xampp-windows-x64-7.4.8-0-VC15-installer.exe)
