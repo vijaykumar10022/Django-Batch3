@@ -223,6 +223,48 @@ Today agenda:
 
 ##### Recorded Video for Day17 [ClickHere](https://transcripts.gotomeeting.com/#/s/71322703f32d4aabff80d35c2ae0eefc59040e78e8b1635663198f02e1312f95)
   #### Note:Videos are Expired after one week
+  
+      ____
+### Day18(01-08-20)
+#### Day-18content:
+_____
+  Today agenda:
+-----------
+	-->hosting our designed wesite to online server
+	-->we are using heroku environment
+			-->maximum storage capability around 500mb
+			-->maximum allowed projects 5 prjects
+			-->heroku integrated both aws for storage and for repository status this is using github
+			-->free of cost
+			--> knowlede on basic linux commands and git commands
+			-->we are using database also
+	#### commands
+	1).Creat Project
+2).Create Your app
+3).check Your Server working fine or not
+4).install heroku s/w --->https://devcenter.heroku.com/articles/getting-started-with-python#set-up
+5).pip install gunicorn
+6).create File -->Procfile -->enter --> web: gunicorn T_shirt_size.wsgi
+7).web: gunicorn firstdemo1.wsgi -->
+8).pip install requests==2.19.1
+10).pip install django-heroku
+11). import this one into settings.py
+    import django_heroku
+   add this statement end of  settings.py 
+     django_heroku.settings(locals())
+12).pip freeze > requirements.txt
+5).heroku login
+13).heroku create t_shirtapp
+      create unique app
+14).git init
+15).git status
+          git config --global user.email "Vijay10022.com"
+         git config ---global user.name "vijay"
+16).git add .
+17).git commit -m "status"
+18).heroku git:remote -a appname
+19).git push heroku master
+
   #### Download&install  any one 
   - for system 64 bit os
    [for 64 bit Click to Download](https://www.apachefriends.org/xampp-files/7.4.8/xampp-windows-x64-7.4.8-0-VC15-installer.exe)
