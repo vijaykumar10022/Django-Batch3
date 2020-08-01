@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+{%load static%}
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Qrcode Page</title>
+  </head>
+  <body>
+    <form  action="{% url 'validate_otp' %}" method="post">
+      {%csrf_token%}
+    <table align="center" border=2>
+      <tr>
+        <th>QR Code</th>
+      </tr>
+      <tr>
+        <th><img src="{%static 'qrimages/pic1.jpg'%}" alt=""></th>
+      </tr>
+      <tr>
+        <th><input type="text" name="uotp" placeholder="Enter OTP" required></th>
+      </tr>
+      <tr>
+        <th><input type="submit" name="submit"></th>
+      </tr>
+    </table>
+    </form>
+  </body>
+</html>
